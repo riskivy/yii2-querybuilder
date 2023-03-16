@@ -1,5 +1,5 @@
 {
-  "name": "leandrogehlen/yii2-querybuilder",
+  "name": "riskivy/yii2-querybuilder",
   "description": "Extension for Yii2 Framework to work with jQuery QueryBuilder",
   "keywords": [
     "yii2",
@@ -13,13 +13,13 @@
   "license": "BSD-3-Clause",
   "prefer-stable": true,
   "support": {
-    "issues": "https://github.com/leandrogehlen/yii2-querybuilder/issues",
-    "source": "https://github.com/leandrogehlen/yii2-querybuilder"
+    "issues": "https://github.com/riskivy/yii2-querybuilder/issues",
+    "source": "https://github.com/riskivy/yii2-querybuilder"
   },
   "authors": [
     {
       "name": "Leandro Guindani Gehlen",
-      "email": "leandrogehlen@gmail.com"
+      "email": "riskivy@gmail.com"
     }
   ],
   "repositories": [
@@ -38,7 +38,7 @@
   },
   "autoload": {
     "psr-4": {
-      "leandrogehlen\\querybuilder\\": "src"
+      "riskivy\\querybuilder\\": "src"
     }
   },
   "extra": {
