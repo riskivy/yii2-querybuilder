@@ -1,12 +1,12 @@
 <?php
 
-namespace leandrogehlen\querybuilder;
+namespace riskivy\querybuilder;
 
 /**
  * QueryBuilder renders a jQuery QueryBuilder component.
  *
  * @see http://mistic100.github.io/jQuery-QueryBuilder/
- * @author Leandro Gehlen <leandrogehlen@gmail.com>
+ * @author Leandro Gehlen <riskivy@gmail.com>
  */
 class QueryBuilder extends \soluto\plugin\Widget {
 

@@ -1,9 +1,9 @@
 <?php
 
 
-namespace leandrogehlen\querybuilder\tests\unit;
+namespace riskivy\querybuilder\tests\unit;
 
-use leandrogehlen\querybuilder\Translator;
+use riskivy\querybuilder\Translator;
 
 class TranslatorTest extends TestCase
 {

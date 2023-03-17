@@ -1,6 +1,6 @@
 <?php
 
-namespace leandrogehlen\querybuilder;
+namespace riskivy\querybuilder;
 
 
 use yii\base\InvalidConfigException;
@@ -39,7 +39,7 @@ use yii\helpers\Json;
  * <?php QueryBuilderForm::end() ?>
  * ```
  *
- * @author Leandro Gehlen <leandrogehlen@gmail.com>
+ * @author Leandro Gehlen <riskivy@gmail.com>
  */
 class QueryBuilderForm extends Widget
 {

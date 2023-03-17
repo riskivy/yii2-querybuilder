@@ -1,6 +1,6 @@
 <?php
 
-namespace leandrogehlen\querybuilder;
+namespace riskivy\querybuilder;
 
 use yii\base\BaseObject;
 use yii\helpers\ArrayHelper;
@@ -31,7 +31,7 @@ use yii\helpers\ArrayHelper;
  *     ]);
  * }
  * ```
- * @author Leandro Gehlen <leandrogehlen@gmail.com>
+ * @author Leandro Gehlen <riskivy@gmail.com>
  */
 class Translator extends BaseObject
 {

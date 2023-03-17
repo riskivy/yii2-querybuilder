@@ -1,6 +1,6 @@
 <?php
 
-namespace leandrogehlen\querybuilder;
+namespace riskivy\querybuilder;
 
 
 use yii\base\BaseObject;
@@ -9,7 +9,7 @@ use yii\base\BaseObject;
  * The validation object representation
  *
  * @see http://mistic100.github.io/jQuery-QueryBuilder/#validation
- * @author Leandro Gehlen <leandrogehlen@gmail.com>
+ * @author Leandro Gehlen <riskivy@gmail.com>
  */
 class Validation extends BaseObject implements Optionable
 {

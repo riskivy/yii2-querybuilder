@@ -1,6 +1,6 @@
 <?php
 
-namespace leandrogehlen\querybuilder\tests\unit;
+namespace riskivy\querybuilder\tests\unit;
 
 use yii\base\NotSupportedException;
 use Yii;
