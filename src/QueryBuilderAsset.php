@@ -15,6 +15,7 @@ class QueryBuilderAsset extends AssetBundle {
 
     public $js = [
         'js/query-builder.standalone.min.js',
+        'i18n/query-builder.zh-CN.js',
     ];
 
     public $css = [
